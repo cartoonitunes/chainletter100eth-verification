@@ -1,0 +1,9 @@
+{
+  "name": "chainletter100eth-verification",
+  "version": "1.0.0",
+  "description": "Bytecode verification proof for EarlyChainLetter100ETH (0x020522bf...)",
+  "main": "verify.js",
+  "scripts": {
+    "verify": "node verify.js"
+  }
+}
